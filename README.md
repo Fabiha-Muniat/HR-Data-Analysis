@@ -3,7 +3,8 @@
 ## Project Overview:
 This project presents a comprehensive analysis of HR data to uncover key insights related to employee demographics, departmental structures, geographic distribution, and employee hiring and termination events.
 
-![image](https://github.com/user-attachments/assets/321ae65a-38d1-4c66-a0a4-769ef65ee26d)
+![image](https://github.com/user-attachments/assets/61e6f842-c534-44be-8056-6479947f8d4c)
+
 
 
 ## Tools:
